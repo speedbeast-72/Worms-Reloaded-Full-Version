@@ -238,4 +238,4 @@ This repository serves as the official landing page for Worms Reloaded. The soft
 **Get the most recent version of Worms Reloaded today!**
 
 ---
-**Last updated:** 2026-10-03 05:52:38 UTC
+**Last updated:** 2026-10-03 10:45:21 UTC
